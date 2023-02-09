@@ -1,2 +1,2 @@
 #!/bin/bash
-chown -R vincent:staff $CWD
+chown -R vincent:staff *
